@@ -1,2 +1,2 @@
-# basic_projects-QT-ML-
-Basic level projects In Quant Finance using ML
+# Basic Projects QF-ML
+Basic level projects In Quant Finance using ML Algorithms
