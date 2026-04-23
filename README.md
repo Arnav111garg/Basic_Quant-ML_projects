@@ -9,3 +9,8 @@
    - Sharpe Ratio as Financial Performance Metric
    - Sharpe: 0.14067369496370954
    - Accuracy Score: 0.49454545454545457
+3. Nonlinear Alpha Model for Equity Direction using Decision Trees
+   - Used Accuracy Score as ML evaluation metric and
+   - Sharpe Ratio as Financial Performance Metric
+   - Accuracy: 0.5212121212121212
+   - Sharpe: 0.11491022747620354
